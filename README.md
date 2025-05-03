@@ -1,4 +1,4 @@
-# QA Test (CloudRu)
+# QA Test (cloud.ru)
 
 ## Установка Python
 
